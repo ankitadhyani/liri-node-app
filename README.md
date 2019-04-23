@@ -35,6 +35,18 @@ At the ecompletion of each operation, the application will ask the user if he/sh
 Built with Node.js and includes use of 3 public APIs- Bands In Town, Spotify and OMDB.
 
 ## Screenshots
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "aaaa")
+![alt text](https://github.com/ankitadhyani/liri-node-app/blob/master/snapshots/1_StartApp.png "Start App")
+
+![alt text](https://github.com/ankitadhyani/liri-node-app/blob/master/snapshots/2_Concert.png "Concert")
+
+![alt text](https://github.com/ankitadhyani/liri-node-app/blob/master/snapshots/3_SelectSpotifySearch.png "Select Spotify Search")
+
+![alt text](https://github.com/ankitadhyani/liri-node-app/blob/master/snapshots/4_SpotifyResults.png "Spotify Results")
+
+![alt text](https://github.com/ankitadhyani/liri-node-app/blob/master/snapshots/5_SelectMovieSearch.png "Select Movie Search")
+
+![alt text](https://github.com/ankitadhyani/liri-node-app/blob/master/snapshots/6_ReadFile.png "Read File")
+
+![alt text](https://github.com/ankitadhyani/liri-node-app/blob/master/snapshots/7_ReadFile_SpotifySearch.png "Read File Spotify Search")
 
 
